@@ -1,0 +1,6 @@
+framework module Pods_IISLocation {
+  umbrella header "Pods-IISLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
